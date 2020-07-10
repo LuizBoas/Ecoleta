@@ -23,7 +23,7 @@ const Home = () => {
                         <span>
                             <FiLogIn/>
                         </span>
-                        <strong>Cadstre um ponto de coleta</strong>
+                        <strong>Cadastre um ponto de coleta</strong>
                     </Link>
                 </main>
             </div>
